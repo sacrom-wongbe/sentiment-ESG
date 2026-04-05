@@ -1,393 +1,379 @@
 {
   "ADP": {
     "Environmental": {
-      "mean_absolute_change": 0.0077476349540215265,
+      "mean_absolute_change": 0.007747635028317327,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.015275813313914983,
+      "mean_absolute_change": 0.01527581296437018,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.012397129142289964,
+      "mean_absolute_change": 0.012397128674655464,
       "n_changes": 8
     }
   },
   "BR": {
     "Environmental": {
-      "mean_absolute_change": 0.003254990779938514,
+      "mean_absolute_change": 0.0032549907209900248,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.043383637628970156,
+      "mean_absolute_change": 0.04338363804092898,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.04434941654418775,
+      "mean_absolute_change": 0.044349416809584846,
       "n_changes": 8
     }
   },
   "CHRW": {
     "Environmental": {
-      "mean_absolute_change": 0.025981173072585545,
+      "mean_absolute_change": 0.025981172970413344,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.022279744417318642,
+      "mean_absolute_change": 0.022279743837440354,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.032486757678168485,
+      "mean_absolute_change": 0.03248675768642939,
       "n_changes": 8
     }
   },
   "CMI": {
     "Environmental": {
-      "mean_absolute_change": 0.02767692309087008,
+      "mean_absolute_change": 0.027676923377434437,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.00866964280357878,
+      "mean_absolute_change": 0.008669642620581218,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.028510858221278038,
+      "mean_absolute_change": 0.02851085867846795,
       "n_changes": 8
     }
   },
   "CPRT": {
     "Environmental": {
-      "mean_absolute_change": 0.01706137776893704,
+      "mean_absolute_change": 0.01706137796225026,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.013358294556709713,
+      "mean_absolute_change": 0.013358294351755423,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.022912466719626857,
+      "mean_absolute_change": 0.022912466808914053,
       "n_changes": 8
     }
   },
   "CSX": {
     "Environmental": {
-      "mean_absolute_change": 0.05161264526224459,
+      "mean_absolute_change": 0.051612645070000435,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.018262115257705994,
+      "mean_absolute_change": 0.01826211574277166,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.03951619385392131,
+      "mean_absolute_change": 0.0395161930177411,
       "n_changes": 8
     }
   },
   "CTAS": {
     "Environmental": {
-      "mean_absolute_change": 0.07948588096438683,
+      "mean_absolute_change": 0.07948588071883873,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.024785037976095756,
+      "mean_absolute_change": 0.024785037636304304,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.06804678639707873,
+      "mean_absolute_change": 0.0680467855691431,
       "n_changes": 8
     }
   },
   "DOV": {
     "Environmental": {
-      "mean_absolute_change": 0.028366008117761403,
+      "mean_absolute_change": 0.02836600647728127,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.05809395335798469,
+      "mean_absolute_change": 0.05809395384218399,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.0753466807651483,
+      "mean_absolute_change": 0.07534668073446825,
       "n_changes": 8
     }
   },
   "EMR": {
     "Environmental": {
-      "mean_absolute_change": 0.05822886613666164,
+      "mean_absolute_change": 0.05822886626561071,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.07525755511382287,
+      "mean_absolute_change": 0.07525755630982152,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.06794702882925535,
+      "mean_absolute_change": 0.06794702971523202,
       "n_changes": 8
     }
   },
   "GD": {
     "Environmental": {
-      "mean_absolute_change": 0.024222662859320596,
+      "mean_absolute_change": 0.024222662954110394,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.017263322045185207,
+      "mean_absolute_change": 0.017263321900249977,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.03273130517523479,
+      "mean_absolute_change": 0.032731305083667964,
       "n_changes": 8
     }
   },
   "HII": {
     "Environmental": {
-      "mean_absolute_change": 0.014434782461471944,
+      "mean_absolute_change": 0.014434782860932128,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.011187877472671106,
+      "mean_absolute_change": 0.011187877698458585,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.016403058638029225,
+      "mean_absolute_change": 0.01640305917499442,
       "n_changes": 8
     }
   },
   "HWM": {
     "Environmental": {
-      "mean_absolute_change": 0.04374401006762857,
+      "mean_absolute_change": 0.04374400984756024,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.033857574120356185,
+      "mean_absolute_change": 0.03385757375841347,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.05302668764396174,
+      "mean_absolute_change": 0.05302668739675927,
       "n_changes": 8
     }
   },
   "ITW": {
     "Environmental": {
-      "mean_absolute_change": 0.05332353373012803,
+      "mean_absolute_change": 0.05332353407489756,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.05541033038041482,
+      "mean_absolute_change": 0.055410330450565634,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.09887961503472202,
+      "mean_absolute_change": 0.09887961534134401,
       "n_changes": 8
     }
   },
   "J": {
     "Environmental": {
-      "mean_absolute_change": 0.03782936412901713,
+      "mean_absolute_change": 0.03782936423919684,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.02496041814879699,
+      "mean_absolute_change": 0.024960418300861268,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.04237811303088766,
+      "mean_absolute_change": 0.042378112901106865,
       "n_changes": 8
     }
   },
   "LMT": {
     "Environmental": {
-      "mean_absolute_change": 0.02255517051743018,
+      "mean_absolute_change": 0.0225551710323458,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.010131085409014605,
+      "mean_absolute_change": 0.010131085230879279,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.026505949636350376,
+      "mean_absolute_change": 0.02650594995422373,
       "n_changes": 8
     }
   },
   "MAS": {
     "Environmental": {
-      "mean_absolute_change": 0.03527589365426906,
+      "mean_absolute_change": 0.035275893611264396,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.036554223795624854,
+      "mean_absolute_change": 0.03655422376002025,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.046082736693223034,
+      "mean_absolute_change": 0.046082737435707496,
       "n_changes": 8
     }
   },
   "MMM": {
     "Environmental": {
-      "mean_absolute_change": 0.16403451065888358,
+      "mean_absolute_change": 0.16403451046506137,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.061836072768768506,
+      "mean_absolute_change": 0.061836072834051646,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.13294133721764845,
+      "mean_absolute_change": 0.13294133661946564,
       "n_changes": 8
     }
   },
   "NOC": {
     "Environmental": {
-      "mean_absolute_change": 0.02936636755642355,
+      "mean_absolute_change": 0.029366368175773167,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.018872243961809594,
+      "mean_absolute_change": 0.01887224402698349,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.03337126042125686,
+      "mean_absolute_change": 0.03337126003521826,
       "n_changes": 8
     }
   },
   "NSC": {
     "Environmental": {
-      "mean_absolute_change": 0.039864374021840114,
+      "mean_absolute_change": 0.0398643735524693,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.011663455935672834,
+      "mean_absolute_change": 0.011663456053241806,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.03870311236892819,
+      "mean_absolute_change": 0.03870311208392195,
       "n_changes": 8
     }
   },
   "ROK": {
     "Environmental": {
-      "mean_absolute_change": 0.026673951890601105,
+      "mean_absolute_change": 0.026673952045270278,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.019717656572457457,
+      "mean_absolute_change": 0.019717656379292667,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.03095633770395402,
+      "mean_absolute_change": 0.030956337812019036,
       "n_changes": 8
     }
   },
   "RTX": {
     "Environmental": {
-      "mean_absolute_change": 0.023855108333761164,
+      "mean_absolute_change": 0.023855108071124783,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.030906472420397547,
+      "mean_absolute_change": 0.030906472618732132,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.04136640096003613,
+      "mean_absolute_change": 0.04136640092895246,
       "n_changes": 8
     }
   },
   "TDG": {
     "Environmental": {
-      "mean_absolute_change": 0.061367465197762996,
+      "mean_absolute_change": 0.06136746516914628,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.04073117287820841,
+      "mean_absolute_change": 0.04073117279862738,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.07030027660458629,
+      "mean_absolute_change": 0.07030027589117004,
       "n_changes": 8
     }
   },
   "TT": {
     "Environmental": {
-      "mean_absolute_change": 0.03872214334616098,
+      "mean_absolute_change": 0.03872214388374457,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.02170274560243177,
+      "mean_absolute_change": 0.021702745527402537,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.03817319198038882,
+      "mean_absolute_change": 0.038173191032327004,
       "n_changes": 8
     }
   },
   "UAL": {
     "Environmental": {
-      "mean_absolute_change": 0.06217923901938606,
+      "mean_absolute_change": 0.06217923843212896,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.01556069544795238,
+      "mean_absolute_change": 0.01556069566530895,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.05491127065554056,
+      "mean_absolute_change": 0.054911270296537744,
       "n_changes": 8
-    }
-  },
-  "UBER": {
-    "Environmental": {
-      "mean_absolute_change": 0.016912031904343944,
-      "n_changes": 6
-    },
-    "Governance": {
-      "mean_absolute_change": 0.011433105793646911,
-      "n_changes": 6
-    },
-    "Social": {
-      "mean_absolute_change": 0.02140539602708334,
-      "n_changes": 6
     }
   },
   "URI": {
     "Environmental": {
-      "mean_absolute_change": 0.05705526461277292,
+      "mean_absolute_change": 0.057055264848244705,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.03306218044386652,
+      "mean_absolute_change": 0.03306218041322931,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.053479270670952435,
+      "mean_absolute_change": 0.05347927196994813,
       "n_changes": 8
     }
   },
   "WAB": {
     "Environmental": {
-      "mean_absolute_change": 0.05033527487766243,
+      "mean_absolute_change": 0.050335274882065364,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.02272950237551966,
+      "mean_absolute_change": 0.022729502602623075,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.058813003800582776,
+      "mean_absolute_change": 0.05881300481229979,
       "n_changes": 8
     }
   },
   "WM": {
     "Environmental": {
-      "mean_absolute_change": 0.036050584489813714,
+      "mean_absolute_change": 0.036050584741909655,
       "n_changes": 8
     },
     "Governance": {
-      "mean_absolute_change": 0.008980061783720763,
+      "mean_absolute_change": 0.008980061825115623,
       "n_changes": 8
     },
     "Social": {
-      "mean_absolute_change": 0.028957729476642307,
+      "mean_absolute_change": 0.02895772961950639,
       "n_changes": 8
     }
   }
